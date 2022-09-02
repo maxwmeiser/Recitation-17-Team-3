@@ -1,5 +1,6 @@
 # Recitation-17-Team-3
-Lab 2
+Lab 2 \n
 
-Daniel Hernandez - champion-dan
+Maxwell Meiser - maxwmeiser \n
+Daniel Hernandez - champion-dan \n
 Elizabeth Sorenson - elso1549
